@@ -64,7 +64,7 @@ Exp: You get x amount of extra exp each time you mine exp.\
 Luck: Your chances of recieving Epic or Legendary loot is increased.\
 Crit: Increase chance to crit while mining, which provides 2x exp.\
 Your stats can be added raw (+) or added as a percentage (%).\
-For example, if you have power + 6, you will get 6 power to your total power stat. If you have ower 6%, you will get an additional 6% of your total power added to your total power.
+For example, if you have power + 6, you will get 6 power to your total power stat. If you have over 6%, you will get an additional 6% of your total power added to your total power.
 Your total amount of stats is determined by all of your equipped equipment.\
 
 ## Bonus
